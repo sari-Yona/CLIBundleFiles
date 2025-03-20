@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+jf3YmYU6y4Hbi6e1NJuRZrgRN3Zie8tmjoulc6vb7P/E8mZXdZy2ulWA/ZNUZi2x01INpEgz1sEkJMtTsnIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\This User\\Desktop\\הנדסאים\\PRAKTIKOD\\No.1\\prj\\prj\\bdl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\This User\\.nuget\\packages\\system.commandline\\2.0.0-beta4.22272.1\\system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
+  "logs": []
+}
